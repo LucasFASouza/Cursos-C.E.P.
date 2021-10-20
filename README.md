@@ -1,4 +1,4 @@
-# Cursos-C.E.P.
+# Cursos S.E.P. (Seleção de Estagiários Python)
 
 ## Cursos de Python
 - [Curso em Vídeo Python](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
