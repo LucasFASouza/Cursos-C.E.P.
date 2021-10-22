@@ -5,6 +5,7 @@
 - [Curso em Vídeo Python](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 - [Python OOP Tutorial](https://www.youtube.com/watch?v=gQojMIhELvM&list=PLoYCgNOIyGABDU532eesybur5HPBVfC1G)
 - [Getting Started with PyCharm](https://www.youtube.com/watch?v=BPC-bGdBSM8&list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP)
+- [Introdução à linguagem Python](https://www.udemy.com/course/intro_python/)
 
 ## Cursos de Python PAGOS
 - [Welcome to the Django](https://henriquebastos.net/produtos/welcome-to-the-django/)
