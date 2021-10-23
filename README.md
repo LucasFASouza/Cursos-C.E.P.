@@ -9,6 +9,7 @@
 
 ## Cursos de Python PAGOS
 - [Welcome to the Django](https://henriquebastos.net/produtos/welcome-to-the-django/)
+- [Python Pro](https://pythonpro.com.br/)
 
 ## Cursos Web Development
 - [Web Development Tutorial For Beginners](https://www.youtube.com/watch?v=gQojMIhELvM&list=PLoYCgNOIyGABDU532eesybur5HPBVfC1G)
