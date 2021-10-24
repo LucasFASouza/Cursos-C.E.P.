@@ -1,5 +1,8 @@
 # Cursos S.E.P. (Seleção de Estagiários Python)
 
+## PYTHON
+- [Documentação](https://docs.python.org/3/)
+
 ## Cursos de Python GRATUITOS
 - [Python para Zumbis](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
 - [Curso em Vídeo Python](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
