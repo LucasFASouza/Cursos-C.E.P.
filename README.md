@@ -10,6 +10,7 @@
 - [Getting Started with PyCharm](https://www.youtube.com/watch?v=BPC-bGdBSM8&list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP)
 - [Linguagem de programação Python Básico](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico)
 - [Introdução à linguagem Python](https://www.udemy.com/course/intro_python/)
+- [Domine python 100% em menos de 1h](https://www.youtube.com/watch?v=HUgMWJKn2YY)
 
 ## Cursos de Python PAGOS
 - [Welcome to the Django](https://henriquebastos.net/produtos/welcome-to-the-django/)
