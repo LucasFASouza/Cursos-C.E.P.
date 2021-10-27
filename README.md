@@ -29,6 +29,7 @@
 
 ## Link's para Baixar IDEs
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=linux)
+- [VS Code](https://code.visualstudio.com/)
 
 ---
 
