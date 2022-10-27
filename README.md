@@ -15,7 +15,7 @@
 - [Linguagem de programação Python Básico](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico)
 - [Introdução à linguagem Python](https://www.udemy.com/course/intro_python/)
 - [Domine python 100% em menos de 1h](https://www.youtube.com/watch?v=HUgMWJKn2YY)
-
+- [FastAPI - A python framework | Full Course](https://youtu.be/7t2alSnE2-I)
 ### Cursos Pagos
 - [Welcome to the Django](https://henriquebastos.net/produtos/welcome-to-the-django/)
 - [Python Pro](https://pythonpro.com.br/)
