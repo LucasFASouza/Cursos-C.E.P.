@@ -7,7 +7,7 @@
 - [Documentação Python 3 (PT-BR)](https://docs.python.org/pt-br/3/)
 - [Documentação Python 3 (EN)](https://docs.python.org/3/)
 
-### Cursos Gratuítos
+### Cursos Gratuitos
 - [Python para Zumbis](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
 - [Curso em Vídeo Python](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 - [Python OOP Tutorial](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&index=1)
