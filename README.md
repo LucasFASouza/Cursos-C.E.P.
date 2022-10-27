@@ -38,6 +38,7 @@
 ### Vue
 - [Vue docs PT-BR](https://br.vuejs.org/v2/guide/)
 - [Curso de Vue 3 - Hora de Codar](https://www.youtube.com/watch?v=wsAQQioPIJs)
+- [Course for Beginners - freeCodeCamp.org](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
 ---
 
 ## Link's para Baixar IDEs
