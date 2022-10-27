@@ -4,7 +4,8 @@
 
 ## Python
 ### Documentação
-- [Documentação Python 3](https://docs.python.org/3/)
+- [Documentação Python 3 (PT-BR)](https://docs.python.org/pt-br/3/)
+- [Documentação Python 3 (EN)](https://docs.python.org/3/)
 
 ### Cursos Gratuítos
 - [Python para Zumbis](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
