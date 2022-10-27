@@ -34,5 +34,5 @@
 
 ---
 
-> Se inscreva no [hacktoberfest](https://hacktoberfest.digitalocean.com/) antes de realizar seus PRs. <br />
+> Se inscreva no [hacktoberfest](https://hacktoberfest.com/) antes de realizar seus PRs. <br />
 > Edite o arquivo adicionando novos cursos ou seções e envie como um Pull Request.
