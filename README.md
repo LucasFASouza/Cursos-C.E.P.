@@ -40,6 +40,7 @@
 - [Vue tutorial](https://vuejs.org/tutorial/#step-1)
 - [Curso de Vue 3 - Hora de Codar](https://www.youtube.com/watch?v=wsAQQioPIJs)
 - [Course for Beginners - freeCodeCamp.org](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+- [Getting started with Vue](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
 ---
 
 ## Link's para Baixar IDEs
