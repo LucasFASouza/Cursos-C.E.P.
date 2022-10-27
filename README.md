@@ -37,6 +37,7 @@
 
 ### Vue
 - [Vue docs PT-BR](https://br.vuejs.org/v2/guide/)
+- [Vue tutorial](https://vuejs.org/tutorial/#step-1)
 - [Curso de Vue 3 - Hora de Codar](https://www.youtube.com/watch?v=wsAQQioPIJs)
 - [Course for Beginners - freeCodeCamp.org](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
 ---
