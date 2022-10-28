@@ -43,6 +43,16 @@
 - [Getting started with Vue](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
 ---
 
+## GOlang
+### Documentação
+- [Golang doc](https://go.dev/doc/)
+- [Golang playground](https://go.dev/play/)
+
+### Cursos gratuitos
+- [GetGoing](https://www.udemy.com/course/getgoing/)
+
+---
+
 ## Link's para Baixar IDEs
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=linux)
 - [VS Code](https://code.visualstudio.com/)
