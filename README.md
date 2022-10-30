@@ -22,7 +22,7 @@
 
 ---
 
-## Web Development
+## Desenvolvimento Web
 ### HTML & CSS
 - [Web Development Tutorial For Beginners](https://www.youtube.com/watch?v=gQojMIhELvM&list=PLoYCgNOIyGABDU532eesybur5HPBVfC1G)
 - [Curso em Vídeo HTML5 e CSS3](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
