@@ -31,8 +31,10 @@
 - [Learn JavaScript - Full Course for Beginners - Freecodecamp](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 
 ### React
+- [Imersão React (Alura)](https://www.alura.com.br/imersao-react?gclid=Cj0KCQjw48OaBhDWARIsAMd966DwhnR1PB9mEDqGIKMA6BFn9acEt_g_Wi6JAnC0YLEou6xvF9IRiz8aArw7EALw_wcB)
 - [React docs PT-BR](https://pt-br.reactjs.org/)
 - [React docs EN](https://reactjs.org/docs/getting-started.html)
+- [React JS Curso Rápido (Cod3r Cursos)](https://www.youtube.com/watch?v=XQxitgyZ_S4)
 - [Learn React - Codecademy](https://www.codecademy.com/learn/react-101?g_network=g&g_device=c&g_adid=518718871323&g_keyword=%2Breact.js&g_acctid=243-039-7011&g_adtype=search&g_adgroupid=126771679424&g_keywordid=kwd-302016649835&g_campaign=ROW+Language%3A+Basic+-+Broad&g_campaignid=10947274266&utm_id=t_kwd-302016649835:ag_126771679424:cp_10947274266:n_g:d_c&utm_term=%2Breact.js&utm_campaign=ROW%20Language%3A%20Basic%20-%20Broad&utm_source=google&utm_medium=paid-search&utm_content=518718871323&hsa_acc=2430397011&hsa_cam=10947274266&hsa_grp=126771679424&hsa_ad=518718871323&hsa_src=g&hsa_tgt=kwd-302016649835&hsa_kw=%2Breact.js&hsa_mt=b&hsa_net=adwords&hsa_ver=3)
 
 ### Vue
