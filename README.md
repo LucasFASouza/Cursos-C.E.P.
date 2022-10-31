@@ -30,6 +30,7 @@
 
 ### Javascript
 - [Learn JavaScript - Full Course for Beginners - Freecodecamp](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [Curso em Vídeo Javascript](https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&ab_channel=CursoemV%C3%ADdeo)
 
 ### React
 - [Imersão React (Alura)](https://www.alura.com.br/imersao-react?gclid=Cj0KCQjw48OaBhDWARIsAMd966DwhnR1PB9mEDqGIKMA6BFn9acEt_g_Wi6JAnC0YLEou6xvF9IRiz8aArw7EALw_wcB)
