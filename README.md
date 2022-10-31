@@ -11,13 +11,13 @@
 - [Documentação Python 3 (EN)](https://docs.python.org/3/)
 
 ### Cursos Gratuitos
+- [Domine python 100% em menos de 1h](https://www.youtube.com/watch?v=HUgMWJKn2YY)
 - [Python para Zumbis](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
 - [Curso em Vídeo Python](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 - [Python OOP Tutorial](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&index=1)
 - [Getting Started with PyCharm](https://www.youtube.com/watch?v=BPC-bGdBSM8&list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP)
 - [Linguagem de programação Python Básico](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico)
 - [Introdução à linguagem Python](https://www.udemy.com/course/intro_python/)
-- [Domine python 100% em menos de 1h](https://www.youtube.com/watch?v=HUgMWJKn2YY)
 - [FastAPI - A python framework | Full Course](https://youtu.be/7t2alSnE2-I)
 - [Python para iniciantes](https://www.youtube.com/playlist?list=PLnNURxKyyLIKX73U7hISjIY7T5KiNNLu_)
 ### Cursos Pagos
