@@ -70,3 +70,8 @@
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=linux)
 - [VS Code](https://code.visualstudio.com/)
 - [Fleet](https://www.jetbrains.com/pt-br/fleet/)
+
+---
+
+## Aplicativos
+- [Sololearn: Learn to Code](https://play.google.com/store/apps/details?id=com.sololearn)
