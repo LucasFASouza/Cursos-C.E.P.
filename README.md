@@ -55,6 +55,12 @@
 
 ---
 
+## Git/GitHub
+### Cursos gratuitos
+- [Curso de Git e GitHub](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&ab_channel=CursoemV%C3%ADdeo)
+
+---
+
 ## Link's para Baixar IDEs
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=linux)
 - [VS Code](https://code.visualstudio.com/)
