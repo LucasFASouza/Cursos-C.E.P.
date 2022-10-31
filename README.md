@@ -1,5 +1,8 @@
 # Cursos S.E.P. (Seleção de Estagiários Python)
 
+> Se inscreva no [hacktoberfest](https://hacktoberfest.com/) antes de realizar seus PRs. <br />
+> Edite o arquivo adicionando novos cursos ou seções e envie como um Pull Request.
+
 ---
 
 ## Python
@@ -67,8 +70,3 @@
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=linux)
 - [VS Code](https://code.visualstudio.com/)
 - [Fleet](https://www.jetbrains.com/pt-br/fleet/)
-
----
-
-> Se inscreva no [hacktoberfest](https://hacktoberfest.com/) antes de realizar seus PRs. <br />
-> Edite o arquivo adicionando novos cursos ou seções e envie como um Pull Request.
